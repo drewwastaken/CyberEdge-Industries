@@ -42,8 +42,7 @@ CyberEdge Industries is dedicated to empowering businesses through innovative IT
 
 ### Development Tools
 - **Design & Prototyping**: Figma, Canva
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Backend**: PHP, MySQL
+- **Frontend**: HTML5, CSS, JavaScript 
 - **Development Environment**: Visual Studio Code
 - **Version Control**: Git & GitHub
 - **Deployment**: GitHub Pages
@@ -206,13 +205,13 @@ cyberedge-industries/
 ### GitHub Repository
 **Update with your actual GitHub URL:**
 ```
-https://github.com/[YOUR-USERNAME]/cyberedge-industries
+https://github.com/drewwastaken/cyberedge-industries
 ```
 
 ### Live Site (GitHub Pages)
 **Update with your actual GitHub Pages URL:**
 ```
-https://[YOUR-USERNAME].github.io/cyberedge-industries
+https://drewwastaken.github.io/cyberedge-industries
 ```
 
 ## Target Audience
@@ -252,24 +251,6 @@ Fully optimized for:
 - ✅ Mozilla Firefox (Latest)
 - ✅ Safari (Latest)
 - ✅ Microsoft Edge (Latest)
-
-## Installation & Local Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/[YOUR-USERNAME]/cyberedge-industries.git
-```
-
-2. Navigate to project directory:
-```bash
-cd cyberedge-industries
-```
-
-3. Open with Live Server in VS Code or open `index.html` in your browser
-
-4. For backend functionality, set up local PHP server and MySQL database
-
-## Lessons Learned
 
 ### Technical Skills
 - Evolved from basic prototypes to sophisticated integrated digital ecosystem
@@ -324,8 +305,7 @@ cd cyberedge-industries
 - ✅ Validated HTML and CSS
 
 ## References
-- PHP Master. (2024, September 20). How to Implementing Google Authenticator for Two-Factor Authentication (2FA) in PHP. YouTube. https://www.youtube.com/watch?v=cEZshCvljGc
-- Dani Krossing. (2023, June 19). How to Create Sessions in PHP for Beginners. YouTube. https://www.youtube.com/watch?v=JAgd_L3GhI0
+- freeCodeCamp.org. (2022, Novembeer 2). HFull Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB). YouTube. https://www.youtube.com/watch?v=nu_pCVPKzTk
 - Web Dev Simplified. (2021, August 24). How To Create Skeleton Loading Animation With CSS. YouTube. https://www.youtube.com/watch?v=ZVug65gW-fc
 
 ## Credits & Acknowledgments
